@@ -10,7 +10,7 @@ import Cards from './components/Cards';
 
 
 import 'react-toastify/dist/ReactToastify.css';
-//toast.configure()
+
 
 
 function App() {
